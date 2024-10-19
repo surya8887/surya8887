@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web Browser**
 
-- 🌱 I’m currently learning **sklearn**
+- 🌱 I’m currently learning **React and Django**
 
 - 🤝 I’m looking for help with **ChatBot**
 
