@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **ReactJs And TailwindCSS**
 
-- 🌱 I’m currently learning **React and Django**
+- 🌱 I’m currently learning **React and Express**
 
 - 🤝 I’m looking for help with **ChatBot**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **FastAPI MonogDB And SQL**
 
 - 📫 How to reach me **surya991837@gmail.com**
 
