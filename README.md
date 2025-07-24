@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar</h1>
 <h3 align="center">Passionate Full Stack Developer | MERN Stack & Python Enthusiast | 🇮🇳 India</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=surya8887&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)" alt="surya8887" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya8887" alt="surya8887" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya8887](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)" alt="surya8887" /></a> </p>
 
 - 🔭 I’m currently working on [Full-Stack Fashion Store | MERN Stack](https://github.com/surya8887/Shopping-App.git)
 
