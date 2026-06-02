@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vijayabout2001@gmail.com**
 
-- 📄 Know about my experiences [Network Enginner at Cogent E Services](Network Enginner at Cogent E Services)
+- 📄 Know about my experiences [Vanco AI ](Software Developer at Vanco AI)
 
 - ⚡ Fun fact **Writes code like it's fashion design — clean, stylish, and always in season.**
 
